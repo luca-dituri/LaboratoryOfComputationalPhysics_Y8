@@ -48,7 +48,7 @@ The following instructions need to be followed any time a new local repository i
    
    * And then in your development branch, if any:
    
-   `git checkout <BranchName>`
+   `git checkout devbranch`
 
    * The idea is that your main always reflects `upstream/main`, i.e. it keeps a local copy of the reference code as a starting point for your developments (i.e. solving the assigned problems). Note that in order to update your repository on GitHub, you need to push the local version to your remote repository.
 
