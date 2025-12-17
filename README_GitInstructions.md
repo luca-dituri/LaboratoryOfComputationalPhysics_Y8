@@ -37,7 +37,7 @@ The following instructions need to be followed any time a new local repository i
   where <BranchName> is the name of your development branch
     
 ### Standard development cycle
-
+  PORCODIO VALE SOLO SE NON HAI ANCORA MODIFICATO NULLA NEI TUOI FILE DALL'ULTIMO AGGIORNAMENTO
    * Before starting with the development you could check whether the upstream repository has been updated with respect to your forked version (that's likely to be the case prior to every lab class). If it had, then merge the changes into your main:
 
    `git checkout main`
